@@ -69,4 +69,4 @@ Personalnummer,Vorname,Nachname
 
 ## Entwickler
 
-- **Sayed Sayedy**
+- **Sayed Sayedy** [sayedy.com](https://sayedy.com)
