@@ -1,6 +1,6 @@
 # Automatische Dateiumbenennung
 
-![alt text](Screenshot-1.png)
+![alt text](Screenshot.png)
 
 
 ## Beschreibung
